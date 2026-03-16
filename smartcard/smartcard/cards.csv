@@ -1,0 +1,4 @@
+name,base_rate,fx_fee,bonus_groceries,bonus_travel,bonus_online_shopping
+Everyday Cashback,0.01,0.03,0.02,,
+Travel Rewards,0.01,0.00,,0.03,
+Online Shopper,0.005,0.02,,,0.03

@@ -1,0 +1,11 @@
+date,description,category,amount_usd,is_foreign,card_used
+2024-01-01,Supermarket,groceries,75.20,0,Everyday Cashback
+2024-01-03,Coffee,restaurants,8.50,0,Everyday Cashback
+2024-01-05,Flight to NYC,travel,420.00,1,Travel Rewards
+2024-01-10,Amazon order,online_shopping,55.99,0,Online Shopper
+2024-02-02,Electricity bill,bills,120.00,0,Everyday Cashback
+2024-02-15,Dinner out,restaurants,60.00,0,Travel Rewards
+2024-02-20,Hotel abroad,travel,300.00,1,Everyday Cashback
+2024-03-05,Grocery run,groceries,95.40,0,Everyday Cashback
+2024-03-10,Online shoes,online_shopping,110.00,0,Online Shopper
+2024-03-18,Taxi abroad,travel,45.00,1,Travel Rewards
